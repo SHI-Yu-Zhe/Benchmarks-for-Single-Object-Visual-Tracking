@@ -2,6 +2,8 @@
 
 # Benchmarks: Single-Object Visual Tracking
 
+Better Viewed at local markdown readers like *Typora*.
+
 ## Dataset Overview 
 
 |   Dataset   |                   Source                    |  Domain  |
@@ -32,7 +34,7 @@
 | TrackingNet | 30643  |   21    |     -      |     470     |       -       |     -      |    14.42M    |   30fps    |
 |   NFS2017   |  100   |   33    |    169     |    3830     |     2448      |   20665    |     383K     |   240fps   |
 |    LaSOT    |  1400  |   70    |    1000    |    2506     |     2053      |   11397    |    3.52M     |   30fps    |
-|   GOT-10k   | 10000  |   563   |     4      |     15      |       -       |    1480    |     56K      |   10fps    |
+|   GOT-10k   | 10000  |   563   |     4      |     150     |       -       |    1480    |     56K      |   10fps    |
 
 ## Evaluation Methodology: Precision, Accuracy, Robustness
 
